@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Letícia Félix, computer engineering and dev under construction 😄 !!!
+### Hi there 👋, I'm Letícia Félix, computer engineer and dev under construction 😄 !!!
 
 - 🔭 Today I'm working with back-end
 - 🌱 Learning Java
