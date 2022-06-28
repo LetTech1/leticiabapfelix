@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Letícia Félix, computer engineer and dev under construction 😄 !!!
 
 - 🔭 Today I'm learning back-end
-- 🌱 Learning C#/.net core
 - 😄 Pronouns: she/her
 
 <div>
