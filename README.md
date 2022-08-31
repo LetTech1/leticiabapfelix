@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Letícia Félix, computer engineer and dev under construction 😄 !!!
 
-- 🔭 Today I'm learning back-end
+- 🔭 Today I'm learning Flutter and Dart
 - 😄 Pronouns: she/her
 
 <div>
