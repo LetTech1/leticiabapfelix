@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Letícia Félix, computer engineer and Data Scientist under construction 😄 !!!
 
-- 🔭 Today I'm studying software development
 - 😄 Pronouns: she/her
 
 <div>
